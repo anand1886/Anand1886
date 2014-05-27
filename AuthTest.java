@@ -9,3 +9,4 @@ Testing Commit for Projects FreePlan & bugtracker Paid plan
 Changes Made
 
 Auth test altered
+Github Commit from Anand Branch
