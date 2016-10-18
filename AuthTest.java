@@ -39,3 +39,5 @@ sdfsd
 asdasd
 
 sadasd
+
+sample commit from slave branch
